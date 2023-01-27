@@ -1,8 +1,14 @@
 import React from 'react'
+
+//css
 import './Header.css'
+
+//sub components
 import CTA from './CTA'
-import ME from '../../assets/me.png'
 import HeaderScocials from './HeaderScocials'
+
+//assets
+import ME from '../../assets/me.png'
 
 const Header = () => {
   return (
