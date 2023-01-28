@@ -57,7 +57,7 @@ const Portfolio = () => {
 
     <section id='portfolio'>
       <h5>Meu porjetos recentes</h5>
-      <h2>Portifólio</h2>
+      <h2>Portfólio</h2>
 
       <div className="container portfolio__container">
         {
