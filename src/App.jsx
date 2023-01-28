@@ -9,7 +9,7 @@ import Header from './components/Header/Header'
 import Nav from './components/Nav/Nav'
 import Portfolio from './components/Portfolio/Portfolio'
 
-const app = () => {
+const App = () => {
   return (
     <>
         <Header />
@@ -23,4 +23,4 @@ const app = () => {
   )
 }
 
-export default app
+export default App

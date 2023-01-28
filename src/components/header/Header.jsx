@@ -5,7 +5,7 @@ import './Header.css'
 
 //sub components
 import CTA from './CTA'
-import HeaderScocials from './HeaderScocials'
+import HeaderScocials from './HeaderSocials'
 
 //assets
 import ME from '../../assets/me.png'
