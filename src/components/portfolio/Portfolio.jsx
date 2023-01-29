@@ -11,9 +11,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Titulo do porjeto',
-    github:'https://github.com/danielmattos91/todo_react',
-    demo: 'https://github.com/danielmattos91/todo_react'
+    title: 'Twitter clone',
+    github:'https://github.com/danielmattos91/twitter_clone',
+    demo: 'https://alphagods.000webhostapp.com/'
   },
   {
     id: 2,
