@@ -18,8 +18,8 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Titulo do porjeto',
-    github:'https://github.com/danielmattos91/todo_react',
+    title: 'Site Portfólio',
+    github:'https://github.com/danielmattos91/site_portifolio',
     demo: 'https://github.com/danielmattos91/todo_react'
   },
   {
