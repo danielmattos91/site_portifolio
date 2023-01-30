@@ -11,7 +11,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Twitter clone',
+    title: 'Twitter Clone',
     github:'https://github.com/danielmattos91/twitter_clone',
     demo: 'https://alphagods.000webhostapp.com/'
   },
@@ -25,28 +25,28 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Titulo do porjeto',
-    github:'https://github.com/danielmattos91/todo_react',
-    demo: 'https://github.com/danielmattos91/todo_react'
+    title: 'App Dashboard',
+    github:'https://github.com/danielmattos91/app_dashboard',
+    demo: 'https://aptosllamas.000webhostapp.com/#'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Titulo do porjeto',
+    title: 'Titulo do projeto',
     github:'https://github.com/danielmattos91/todo_react',
     demo: 'https://github.com/danielmattos91/todo_react'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Titulo do porjeto',
+    title: 'Titulo do projeto',
     github:'https://github.com/danielmattos91/todo_react',
     demo: 'https://github.com/danielmattos91/todo_react'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Titulo do porjeto',
+    title: 'Titulo do projeto',
     github:'https://github.com/danielmattos91/todo_react',
     demo: 'https://github.com/danielmattos91/todo_react'
   }
