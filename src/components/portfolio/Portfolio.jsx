@@ -4,7 +4,7 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
 
 const data = [
@@ -39,9 +39,9 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'Titulo do projeto',
+    title: 'Todo React Typescript',
     github:'https://github.com/danielmattos91/todo_react',
-    demo: 'https://github.com/danielmattos91/todo_react'
+    demo: 'https://todoreact-production.up.railway.app/'
   },
   {
     id: 6,
