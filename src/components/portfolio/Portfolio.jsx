@@ -32,9 +32,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Titulo do projeto',
-    github:'https://github.com/danielmattos91/todo_react',
-    demo: 'https://github.com/danielmattos91/todo_react'
+    title: 'Jogo Palavra Secreta',
+    github:'https://github.com/danielmattos91/estudo-react',
+    demo: 'https://scretword.000webhostapp.com/'
   },
   {
     id: 5,
