@@ -46,9 +46,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Titulo do projeto',
-    github:'https://github.com/danielmattos91/todo_react',
-    demo: 'https://github.com/danielmattos91/todo_react'
+    title: 'App Super Gestão',
+    github:'https://github.com/danielmattos91',
+    demo: 'https://github.com/danielmattos91'
   }
 ]
 
